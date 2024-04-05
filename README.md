@@ -5,5 +5,9 @@ Farmers face challenges in making informed decisions about crop selection and di
 “Our solution aims to revolutionize this process by crop recommendation and the plant disease identification using Intel oneAPI toolkits”.
 # SOLUTION
 Our innovative web application, powered by machine learning algorithms and Intel toolkits, analyzes soil data to recommend crops based on nitrogen, phosphorus levels, and other factors. Additionally, integrated with Streamlit, it seamlessly incorporates image recognition technology. Users can upload images of diseased plants, enabling the system to accurately identify the specific plant disease.
+# HOW IT WORKS
+Data Collection:
+     Soil data, including nitrogen, phosphorus levels, and other relevant factors, is collected from farms using manual input.
+
 
 
