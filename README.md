@@ -27,6 +27,9 @@ Upon user plant image upload, the system employs advanced image recognition to a
 
 # TECHNOLOGIES USED:
 
+![Screenshot 2024-04-06 011504](https://github.com/reeshmashahiras/Intel-oneAPI-Hackathon-Agriculture/assets/100523261/a8574741-6987-4999-a056-9269ca3e26c9)
+
+
 # ADVANTAGES OF MIGRATING TO ONEAPI:
 1. Availability of high computing services.
 2. Good developer support.
