@@ -31,7 +31,7 @@ Upon user plant image upload, the system employs advanced image recognition to a
 1. Availability of high computing services.
 2. Good developer support.
    
-**# Final Output of Our Web App**
+# FINAL OUTPUT OF EASY FARMING WEBAPP
 
 
 
