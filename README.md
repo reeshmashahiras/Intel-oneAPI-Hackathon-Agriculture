@@ -25,7 +25,7 @@ Upon user plant image upload, the system employs advanced image recognition to a
 2. Personalized crop recommendations and disease predictions displayed based on the provided inputs.
 3. Seamless integration with Intel oneAPI tools for efficient backend processing and real-time updates.
 
-# TECHNOLOGIES USED:
+# INTEL INTEGRATIONS :
 
 ![Screenshot 2024-04-06 011504](https://github.com/reeshmashahiras/Intel-oneAPI-Hackathon-Agriculture/assets/100523261/a8574741-6987-4999-a056-9269ca3e26c9)
 
