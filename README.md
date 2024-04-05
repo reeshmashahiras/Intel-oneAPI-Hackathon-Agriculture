@@ -30,6 +30,10 @@ Upon user plant image upload, the system employs advanced image recognition to a
 # ADVANTAGES OF MIGRATING TO ONEAPI:
 1. Availability of high computing services.
 2. Good developer support.
+   
+**# Final Output of Our Web App**
+
+
 
 
 ![2](https://github.com/reeshmashahiras/Intel-oneAPI-Hackathon-Agriculture/assets/100523261/dee77ddf-6c29-41cf-a6df-2d96dda8320a)
