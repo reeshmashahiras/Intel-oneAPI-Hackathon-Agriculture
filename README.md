@@ -35,6 +35,10 @@ Upon user plant image upload, the system employs advanced image recognition to a
 
 
 
+https://github.com/reeshmashahiras/Intel-oneAPI-Hackathon-Agriculture/assets/100523261/5c807933-a4d8-440d-b24a-7ed83bcb46df
+
+
+
 
 ![2](https://github.com/reeshmashahiras/Intel-oneAPI-Hackathon-Agriculture/assets/100523261/dee77ddf-6c29-41cf-a6df-2d96dda8320a)
 
